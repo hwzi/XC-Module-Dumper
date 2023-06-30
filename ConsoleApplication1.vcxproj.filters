@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="unsp">
+      <UniqueIdentifier>{ccb82aa7-b4ef-42ce-ad17-6bb6fdcc5600}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{3aaa6183-31d1-4caa-94b1-2e53f24670b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xc">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="unsp.h">
+      <Filter>unsp</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="xmag.h">
+      <Filter>xc</Filter>
+    </ClInclude>
+    <ClInclude Include="lomx.h">
+      <Filter>xc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="xmag.cpp">
+      <Filter>xc</Filter>
+    </ClCompile>
+    <ClCompile Include="lomx.cpp">
+      <Filter>xc</Filter>
+    </ClCompile>
+    <ClCompile Include="unsp.cpp">
+      <Filter>unsp</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
