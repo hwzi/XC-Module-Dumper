@@ -1,6 +1,5 @@
 # XignCode Module Dumper
-Uploaded for research purposes and so we can develop IoT and such.
+Uploaded for IoT research purposes.
 
 ## Disclaimer
-This repository is for academic purposes, the use of this software is your
-responsibility.
+This repository is for academic purposes, the use of this is your responsibility.
