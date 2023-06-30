@@ -1,6 +1,5 @@
 # XignCode Module Dumper
 
-Probably outdated(?) by now but no harm in sharing.
 Uploaded for research purposes and so we can develop IoT and such.
 
 ## Disclaimer
